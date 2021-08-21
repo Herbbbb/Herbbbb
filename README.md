@@ -9,6 +9,6 @@
 
 - ⚡ Java / Serverless.
 
-- 🖋 Writer Blogger at [CSDN](https://blog.csdn.net/weixin_38964895), [语雀](https://www.yuque.com/xiankanpengyouquandisitiaodongtai)
+- 🖋 Writer Blogger at [CSDN](https://blog.csdn.net/weixin_38964895) [语雀](https://www.yuque.com/xiankanpengyouquandisitiaodongtai)
 
-- 🏃 Swimming / Running /  / Ride bike / Reading / Fishing
+- 🏃 Swimming / Running / Ride bike / Reading / Fishing
