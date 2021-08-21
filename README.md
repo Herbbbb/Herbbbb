@@ -5,7 +5,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Herbbbb&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> 
 
-- 🍻 Junior at 🇨🇳 [来未来](https://www.come-future.com/), _Location at 中国·杭州_
+- 🍻 Work at 🇨🇳 [来未来](https://www.come-future.com/), _Location at 中国·杭州_
 
 - ⚡ Java / Serverless.
 
